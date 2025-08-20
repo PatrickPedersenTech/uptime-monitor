@@ -6,17 +6,15 @@
     "slug": "patrick-pedersen",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 686,
-    "timeWeek": 830,
-    "timeMonth": 633,
-    "timeYear": 208,
-    "dailyMinutesDown": {
-      "2025-08-19": 9
-    }
+    "time": 209,
+    "timeDay": 617,
+    "timeWeek": 773,
+    "timeMonth": 645,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   }
 ]
