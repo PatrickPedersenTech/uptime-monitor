@@ -4,19 +4,19 @@
     "url": "https://patrickpedersen.tech",
     "icon": "https://icons.duckduckgo.com/ip3/patrickpedersen.tech.ico",
     "slug": "patrick-pedersen",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 748,
-    "timeWeek": 813,
-    "timeMonth": 816,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 837,
+    "timeWeek": 836,
+    "timeMonth": 821,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 14
     }
   }
 ]
